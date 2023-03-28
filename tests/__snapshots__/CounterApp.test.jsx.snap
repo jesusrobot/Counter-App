@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <CounterApp /> Debe de hacer match con un ultima snapshot 1`] = `
+<div>
+  <div
+    class="counter"
+  >
+    <h1>
+      Contador
+    </h1>
+    <h2
+      class="counter_display"
+    >
+      0
+    </h2>
+    <div
+      class="counter_buttons"
+    >
+      <button>
+        Agregar
+      </button>
+      <button>
+        Reestablecer
+      </button>
+      <button>
+        Quitar
+      </button>
+    </div>
+  </div>
+</div>
+`;
